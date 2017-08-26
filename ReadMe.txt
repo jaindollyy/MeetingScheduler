@@ -60,7 +60,6 @@ MeetingScheduler is written in Visual Studio 2017( Community version) .It contai
 2) Before running the project, place the Input.txt file containing inputs in special folder Documents
 3) Run the console application , it will show the output file path in console window, press enter to close the console window
 4) Output.txt file will be generated in same location.
-l
 
 
 
