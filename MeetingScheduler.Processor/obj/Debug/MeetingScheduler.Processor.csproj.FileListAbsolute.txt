@@ -1,0 +1,5 @@
+C:\Users\Dolly\Documents\Visual Studio 2017\Projects\MeetingScheduler\MeetingScheduler.Processor\bin\Debug\MeetingScheduler.Processor.dll
+C:\Users\Dolly\Documents\Visual Studio 2017\Projects\MeetingScheduler\MeetingScheduler.Processor\bin\Debug\MeetingScheduler.Processor.pdb
+C:\Users\Dolly\Documents\Visual Studio 2017\Projects\MeetingScheduler\MeetingScheduler.Processor\obj\Debug\MeetingScheduler.Processor.dll
+C:\Users\Dolly\Documents\Visual Studio 2017\Projects\MeetingScheduler\MeetingScheduler.Processor\obj\Debug\MeetingScheduler.Processor.pdb
+C:\Users\Dolly\Documents\Visual Studio 2017\Projects\MeetingScheduler\MeetingScheduler.Processor\obj\Debug\MeetingScheduler.Processor.csprojResolveAssemblyReference.cache

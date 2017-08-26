@@ -1,0 +1,8 @@
+C:\Users\Dolly\Documents\Visual Studio 2017\Projects\MeetingScheduler\MeetingScheduler\bin\Debug\MeetingScheduler.exe.config
+C:\Users\Dolly\Documents\Visual Studio 2017\Projects\MeetingScheduler\MeetingScheduler\bin\Debug\MeetingScheduler.exe
+C:\Users\Dolly\Documents\Visual Studio 2017\Projects\MeetingScheduler\MeetingScheduler\bin\Debug\MeetingScheduler.pdb
+C:\Users\Dolly\Documents\Visual Studio 2017\Projects\MeetingScheduler\MeetingScheduler\bin\Debug\MeetingScheduler.Processor.dll
+C:\Users\Dolly\Documents\Visual Studio 2017\Projects\MeetingScheduler\MeetingScheduler\bin\Debug\MeetingScheduler.Processor.pdb
+C:\Users\Dolly\Documents\Visual Studio 2017\Projects\MeetingScheduler\MeetingScheduler\obj\Debug\MeetingScheduler.csprojResolveAssemblyReference.cache
+C:\Users\Dolly\Documents\Visual Studio 2017\Projects\MeetingScheduler\MeetingScheduler\obj\Debug\MeetingScheduler.exe
+C:\Users\Dolly\Documents\Visual Studio 2017\Projects\MeetingScheduler\MeetingScheduler\obj\Debug\MeetingScheduler.pdb
