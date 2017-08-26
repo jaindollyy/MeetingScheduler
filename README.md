@@ -10,7 +10,8 @@ represents the company office hours, in 24-hour format, and the remainder of the
 represents individual booking requests. Each booking request is in the following format. 
 [request submission time, in the format YYYY-MM-DD HH:MM:SS] [ARCH:employee id] 
 [meeting start time, in the format YYYY-MM-DD HH:MM] [ARCH:meeting duration in hours] 
-A sample text input follows, to be used in your solution: 
+A sample text input follows, to be used in your solution:
+
 0900 1730 
 2011-03-17 10:17:06 
 EMP001 
@@ -32,6 +33,7 @@ EMP005
 Your application must provide a successful booking calendar as output, with bookings being 
 grouped chronologically by day. For the sample input displayed above, your system must 
 provide the following output. 
+
 2011-03-21 
 09:00 11:00 
 EMP002 
